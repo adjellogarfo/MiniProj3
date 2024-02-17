@@ -1,7 +1,7 @@
 ## Tarefa 4.2: Mini-projeto - desenvolvimento do back-end
 
 A tarefa 4.2 corresponde ao desenvolvimento inicial do back-end, onde para além de criar a aplicação no Express, visa o processamento dos formulários no lado do servidor com os aspetos de validação e pedidos GET e POST. Todo esta implementação de processamento de pedidos implica a definição de rotas.
-
+git add .
 # Fases da tarefa:
 
 1.) Cada aluno deve ler os recursos partilhados para consolidar os conhecimentos JavaScript, Node.js e Express, e compreender a estrutura do código partilhado. Para esta fase da tarefa ser considerada terminada, deverá ter o back-end de processamento de formulários esteja totalmente funcional baseado nas boas práticas nesta componente do full-stack.
